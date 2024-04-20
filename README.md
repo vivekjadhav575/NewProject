@@ -1,4 +1,4 @@
-# New Project
+# Spotify Clone
 
-This is was created from local system
+Creating Spotify clone using HTML and CSS
 
