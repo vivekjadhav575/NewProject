@@ -1,4 +1,4 @@
 # Spotify Clone
 
-Creating Spotify clone using HTML and CSS
+Created Spotify clone using HTML and CSS
 
